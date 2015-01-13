@@ -595,7 +595,7 @@ ol.grouped-tableview-links li>a:hover{
 	}
 	.view{
 		background-color: #fff;
-		max-width: 700px;
+		max-width: 1000px;
 		box-shadow: 0 0 1px #aaa;
 	}
 	.view>header{
